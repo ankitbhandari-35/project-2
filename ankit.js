@@ -14,3 +14,9 @@ mul(5,8)
 add(8,2)
 sub(9,2)
 mul(5,8)
+function div(a,b){
+    return (a/b)
+}
+div(10,5)
+if(!(a>b)){ throw new Error("a is not greater than b") }
+if(!(a<b)){ throw new Error("a is not less than b") }
