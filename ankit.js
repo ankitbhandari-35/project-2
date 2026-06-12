@@ -20,3 +20,4 @@ function div(a,b){
 div(10,5)
 if(!(a>b)){ throw new Error("a is not greater than b") }
 if(!(a<b)){ throw new Error("a is not less than b") }
+add (71,16)
